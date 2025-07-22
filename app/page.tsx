@@ -785,9 +785,9 @@ export default function Portfolio() {
               </div>
 
               <div className="text-gray-400 text-sm sm:text-base">
-                <p className="mb-2">📍 Sector 48, Gurgaon, Haryana 122018</p>
+                <p className="mb-2">📍 Gurgaon, Haryana, India</p>
                 <p>
-                  © 2025 Akshay Kumar • Frontend Developer • React.js Expert • Team Lead • IIT Ropar AI Student •
+                  © 2025 Akshay Kumar • Frontend Developer • React.js Expert • IIT Ropar AI Student •
                   Available for Hire ⚡
                 </p>
               </div>

@@ -120,7 +120,7 @@ export function HeroSection({ scrollToSection }: HeroSectionProps) {
               </motion.div>
               <motion.div className="text-center" whileHover={{ scale: 1.1 }}>
                 <div className="text-2xl sm:text-3xl font-bold text-blue-400">
-                  <AnimatedCounter end={15} suffix="K+" />
+                  <AnimatedCounter end={100} suffix="K+" />
                 </div>
                 <div className="text-xs sm:text-sm text-gray-400">Users Impacted</div>
               </motion.div>
